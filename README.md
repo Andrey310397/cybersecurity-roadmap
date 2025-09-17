@@ -10,6 +10,6 @@ Aqui registro minhas anotações, exercícios, laboratórios e pequenos projetos
 - **portfolio** → relatórios, prints e projetos organizados.  
 
 ### 🔗 Links úteis
-- [Meu LinkedIn](https://linkedin.com/in/seu-perfil)  
-- [TryHackMe Profile](https://tryhackme.com/p/seu-usuario)  
-- [HackTheBox Profile](https://app.hackthebox.com/profile/seu-usuario)
+- [Meu LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/andrey-de-oliveira-893897103))  
+- [TryHackMe Profile]([https://tryhackme.com/p/seu-usuario](https://tryhackme.com/p/andreyoliveira222))  
+- [HackTheBox Profile](account.hackthebox.com/profile/Andrey310397)
